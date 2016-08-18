@@ -1,0 +1,1 @@
+[a b c d e f g h]=shiftmul16(2,2,2,2,2,2,2,2)
